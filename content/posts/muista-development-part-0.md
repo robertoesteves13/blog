@@ -62,4 +62,6 @@ criticsm, it's what I also liked about it: it has SQL support and a lot of widge
 to make complex interfaces. I believe it's going to be a good library to use for
 this case.
 
-I have a lot of work to do, specially designing and prototyping it. 
+I have a lot of work to do, specially designing and prototyping it, so in the next
+days I'll be focusing my time in development of this application. I hope you're just
+as excited as me :).
