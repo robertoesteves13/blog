@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Roberto Esteves</title>
+    <link>http://robertoesteves.dev/posts/</link>
+    <description>Recent content in Posts on Roberto Esteves</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jul 2023 15:22:15 -0300</lastBuildDate>
+    
+	<atom:link href="http://robertoesteves.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>My First Post!</title>
+      <link>http://robertoesteves.dev/posts/my-first-post/</link>
+      <pubDate>Mon, 10 Jul 2023 15:22:15 -0300</pubDate>
+      
+      <guid>http://robertoesteves.dev/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello, world!&lt;/h1&gt;
+&lt;p&gt;This is going to be my first time where I can talk about a bit of what I most
+enjoy doing in my day-to-day basis. I&amp;rsquo;ve been reading other people&amp;rsquo;s blogs and
+articles for a long time and I always had a will that one day I&amp;rsquo;ll try to share
+what I&amp;rsquo;ve been discovering and studying. I took inspiration from
+&lt;a href=&#34;https://drewdevault.com/&#34;&gt;Drew DeVault&amp;rsquo;s blog&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m an IT student located in Brazil that likes software development, especially
+systems development. It&amp;rsquo;s very possible that I will mostly talk about free and
+open source software since I believe it&amp;rsquo;s beneficial to everyone that uses
+software, compared to other types that restrain their users freedom for the
+sake of profits.&lt;/p&gt;
+&lt;p&gt;There are a lot of things I will talk about in this blog:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Software development in *nix systems&lt;/li&gt;
+&lt;li&gt;Systems programming in Go, C and Zig&lt;/li&gt;
+&lt;li&gt;Idioms and Cultures (especially Brazillian and Finnish)&lt;/li&gt;
+&lt;li&gt;My vision about the world&lt;/li&gt;
+&lt;li&gt;Future events that I might participate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thanks a lot for reading this, and I hope you&amp;rsquo;re just as excited as me to see
+what&amp;rsquo;s this blog will be in the future!&lt;/p&gt;
+</description>
+    </item>
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,4 @@
+baseURL = 'http://robertoesteves.dev/'
+languageCode = 'en-us'
+title = 'Roberto Esteves'
+theme = 'etch'
