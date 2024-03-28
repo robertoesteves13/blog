@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://robertoesteves.dev/posts/my-first-post/</loc>
-    <lastmod>2023-07-10T15:22:15-03:00</lastmod>
-  </url><url>
     <loc>http://robertoesteves.dev/posts/</loc>
-    <lastmod>2023-07-10T15:22:15-03:00</lastmod>
+    <lastmod>2024-03-28T15:30:00-03:00</lastmod>
   </url><url>
     <loc>http://robertoesteves.dev/</loc>
+    <lastmod>2024-03-28T15:30:00-03:00</lastmod>
+  </url><url>
+    <loc>http://robertoesteves.dev/posts/social-anxiety/</loc>
+    <lastmod>2023-09-14T15:22:16-03:00</lastmod>
+  </url><url>
+    <loc>http://robertoesteves.dev/posts/muista-development-part-0/</loc>
+    <lastmod>2023-07-11T14:20:15-03:00</lastmod>
+  </url><url>
+    <loc>http://robertoesteves.dev/posts/my-first-post/</loc>
     <lastmod>2023-07-10T15:22:15-03:00</lastmod>
   </url><url>
     <loc>http://robertoesteves.dev/categories/</loc>
