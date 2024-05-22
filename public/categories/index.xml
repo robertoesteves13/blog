@@ -2,21 +2,106 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Roberto Esteves</title>
-    <link>http://robertoesteves.dev/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Roberto Esteves</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://robertoesteves.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Muista Development 1</title>
+      <link>http://localhost:1313/posts/muista-development-1/</link>
+      <pubDate>Wed, 22 May 2024 16:17:48 -0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/muista-development-1/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Long time no see! I have been busy with things in life, but things started to
+get in order now. After reviewing all the progress that I&amp;rsquo;ve made with muista,
+I decided to scrap everything because I noticed one thing&amp;hellip; &lt;strong&gt;my thought process
+was flawed!&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;You see, I always try to start a new project by jumping straight to programming.
+But this project has something different from the &amp;ldquo;toy examples&amp;rdquo; I&amp;rsquo;ve made to
+learn some technology. I want to make a &lt;em&gt;product&lt;/em&gt;, a &lt;em&gt;FOSS product&lt;/em&gt; to be precise,
+and I want it to be very good at its objective. Analyse the following phrase:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Muista&lt;/em&gt; is a language learning program focused on immersive learning.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;When you see this, it might be a simple thing to program and should not take too
+much time. But I missed to ask a question about something really crucial in
+software development when you want to make something really good&amp;hellip; &lt;strong&gt;how are you using it?&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;realization&#34;&gt;Realization&lt;/h1&gt;
+&lt;p&gt;When I asked this question, a lot of ideas came into my mind, and my head started
+to spin in circles! I have so many good ideas that I want to implement, but they
+are so much my mind started to explode! When I started to feel this way, my decision
+was to postpone this project until I get more technical experience to make it true,
+but this wasn&amp;rsquo;t the thing I was lacking at&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Everything started when I took software engineering at college. In my mind, it was
+going to be boring and would have a lot of whiteboard masturbation.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; But then
+I noticed some important tool to organize my mind and focus on what&amp;rsquo;s the most important&amp;hellip; &lt;strong&gt;use cases!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s a tool for listing what the user needs on a system and a description on how it
+will work. You generally extract them by what the user is telling their needs and
+categorize them in order of importance and ease of development. In my case, the user
+is myself, so I prepared the text and started to separate each use case based on
+what I&amp;rsquo;ve written. It resulted in 27 use cases for now, but I think it will have
+more when I start to plan it more.&lt;/p&gt;
+&lt;p&gt;When you&amp;rsquo;re done, you start doing the first task that&amp;rsquo;s the most important to
+develop and the hardest one, the reason being to minimize risk already at the start.
+It doesn&amp;rsquo;t matter if it depends on another use case to be done in pesperctive of
+software usability, because we don&amp;rsquo;t want to use the system &lt;em&gt;yet&lt;/em&gt;. We just want
+to see if the hardest thing to program is actually possible and try to avoid
+frustration at the start.&lt;/p&gt;
+&lt;h1 id=&#34;devlog&#34;&gt;Devlog&lt;/h1&gt;
+&lt;p&gt;There wasn&amp;rsquo;t so much development in code, but I took one day to separate the use
+cases and categorize them. I don&amp;rsquo;t want to spend time on UI, but on actual BLL code.
+I still fear how to use this tool efficiently, because I don&amp;rsquo;t want to make something
+to use as a library, but when integrating with the presentation layer it&amp;rsquo;s a disaster.&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t want to go full OOP style with crazy UMLs and event diagrams everywhere.
+I&amp;rsquo;m using this tool solely for sorting my mind and prioritize on important things,
+since I praise more on data-oriented design than notebook object-oriented programming,
+but I believe in big companies this will be the norm since OOP is predominant in the
+industry and not inherently bad, but I would say it&amp;rsquo;s misused in some cases (inheritance,
+for example).&lt;/p&gt;
+&lt;p&gt;When I listed all the use cases, something became very clear. An system inside the
+program crucial for the user, something so important it would be game changer in the
+world of language-learning software, &lt;strong&gt;a dictionary!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;No, it&amp;rsquo;s not an ordinary one, but something specifically crafted for learners.
+There will be a lot of use cases that will be using it, and will be responsible for
+almost all functionalities that the program will have. Some of its features will
+include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;See word definition&lt;/li&gt;
+&lt;li&gt;See categories for the word definition&lt;/li&gt;
+&lt;li&gt;See relations with other words&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It will also be used to track word expertise and give hints on how to improve
+familiarity for related words, seeking a saner way find out what&amp;rsquo;s important to
+memorize.&lt;/p&gt;
+&lt;h1 id=&#34;final-thoughts&#34;&gt;Final thoughts&lt;/h1&gt;
+&lt;p&gt;In the next post, I will share a dictionary implementation speficically for language
+learning. I will probably add more things but this is already a good start!&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;This is a term when something is overplanned for the sake of it, and have littl
+pragmatic vision on the things proposed. I&amp;rsquo;m a not a kink, please&amp;hellip;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     
     
     <item>
       <title>I think I&#39;m not fine</title>
-      <link>http://robertoesteves.dev/posts/social-anxiety/</link>
+      <link>http://localhost:1313/posts/social-anxiety/</link>
       <pubDate>Thu, 14 Sep 2023 15:22:16 -0300</pubDate>
       
-      <guid>http://robertoesteves.dev/posts/social-anxiety/</guid>
+      <guid>http://localhost:1313/posts/social-anxiety/</guid>
       <description>&lt;p&gt;My mental health have been deteriorating over these months and I&amp;rsquo;m worried that
 it&amp;rsquo;s getting worse. I can&amp;rsquo;t help but observe the absurds I see during my day and
 how radicalized the world have become. I genuenily fear those people that mock
@@ -108,10 +193,10 @@ as possible.&lt;/p&gt;
     
     <item>
       <title>Muista Development - Part 0</title>
-      <link>http://robertoesteves.dev/posts/muista-development-part-0/</link>
+      <link>http://localhost:1313/posts/muista-development-part-0/</link>
       <pubDate>Tue, 11 Jul 2023 14:20:15 -0300</pubDate>
       
-      <guid>http://robertoesteves.dev/posts/muista-development-part-0/</guid>
+      <guid>http://localhost:1313/posts/muista-development-part-0/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been learning finnish since 3 years ago, starting with language learning apps
 (specially the green owl one), Youtube videos and also TV shows from the country,
 at which point I decided to get enrolled ina course where the embassy of Finland
@@ -174,10 +259,10 @@ as excited as me :).&lt;/p&gt;
     
     <item>
       <title>My First Post!</title>
-      <link>http://robertoesteves.dev/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Mon, 10 Jul 2023 15:22:15 -0300</pubDate>
       
-      <guid>http://robertoesteves.dev/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello, world!&lt;/h1&gt;
 &lt;p&gt;This is going to be my first time where I can talk about a bit of what I most
 enjoy doing in my day-to-day basis. I&amp;rsquo;ve been reading other people&amp;rsquo;s blogs and

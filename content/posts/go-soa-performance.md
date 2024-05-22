@@ -187,7 +187,7 @@ PASS
 ok  	github.com/robertoesteves13/aos-vs-soa	29.211s
 ```
 
-We can see for small sizes, it favours AoS, but for large sizes, it favours SOA.
+We can see for small sizes, it favours AoS, but for large sizes, it favours SoA.
 This might be because memory locality starts to become a concern when you can't
 fit all your data in cache. Also, the go compiler seems to be able to do more
 optimizations when the code is AoS, but I'm not sure of that.
