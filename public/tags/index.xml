@@ -27,7 +27,8 @@ But this project has something different from the &amp;ldquo;toy examples&amp;rd
 learn some technology. I want to make a &lt;em&gt;product&lt;/em&gt;, a &lt;em&gt;FOSS product&lt;/em&gt; to be precise,
 and I want it to be very good at its objective. Analyse the following phrase:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Muista&lt;/em&gt; is a language learning program focused on immersive learning.&lt;/p&gt;
+&lt;p&gt;Muista is a program for structuring a well-defined language course with
+rich-text support focused in immersive learning.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;When you see this, it might be a simple thing to program and should not take too
 much time. But I missed to ask a question about something really crucial in
@@ -80,7 +81,7 @@ include:&lt;/p&gt;
 familiarity for related words, seeking a saner way find out what&amp;rsquo;s important to
 memorize.&lt;/p&gt;
 &lt;h1 id=&#34;final-thoughts&#34;&gt;Final thoughts&lt;/h1&gt;
-&lt;p&gt;In the next post, I will share a dictionary implementation speficically for language
+&lt;p&gt;In the next post, I will share a dictionary implementation specifically for language
 learning. I will probably add more things but this is already a good start!&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;

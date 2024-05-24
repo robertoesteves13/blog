@@ -16,15 +16,24 @@ But this project has something different from the "toy examples" I've made to
 learn some technology. I want to make a *product*, a *FOSS product* to be precise,
 and I want it to be very good at its objective. Analyse the following phrase:
 
-> *Muista* is a language learning program focused on immersive learning.
+> Muista is a program for structuring a well-defined language course with
+> rich-text support focused in immersive learning.
 
 When you see this, it might be a simple thing to program and should not take too
 much time. But I missed to ask a question about something really crucial in
 software development when you want to make something really good... **how are you using it?**
 
+For those who doesn't know, immersive learning is the proccess of learning a
+language by absorbing the content of some media in their language. For example,
+let's say you like cooking and you want to learn finnish. One of the most effective
+way to learn is to look for a recipe for ruisleipä (rye bread), look for keywords
+and try to memorize them. You'll start to notice that these keywords repeats
+a lot on texts of the same topic, thus understanding the media you're consuming
+becomes easier.
+
 # Realization
 
-When I asked this question, a lot of ideas came into my mind, and my head started
+When I asked the usability question, a lot of ideas came into my mind, and my head started
 to spin in circles! I have so many good ideas that I want to implement, but they
 are so much my mind started to explode! When I started to feel this way, my decision
 was to postpone this project until I get more technical experience to make it true,
@@ -81,7 +90,7 @@ memorize.
 
 # Final thoughts
 
-In the next post, I will share a dictionary implementation speficically for language
+In the next post, I will share a dictionary implementation specifically for language
 learning. I will probably add more things but this is already a good start!
 
 [^1]: This is a term when something is overplanned for the sake of it, and have littl
