@@ -3,6 +3,12 @@ title: "I think I'm not fine"
 date: 2023-09-14T15:22:16-03:00
 ---
 
+**UPDATE:** I've refined my thoughts and now I have way better responses in what
+I think. Although this post isn't necessairly wrong, it doesn't explains well
+what the problems are, which I want to do in another post talking about
+individualism, its misconceptions and how it would help to achieve a better society,
+[and I wrote about it here](/posts/in-defense-of-the-individual/).
+
 My mental health have been deteriorating over these months and I'm worried that
 it's getting worse. I can't help but observe the absurds I see during my day and
 how radicalized the world have become. I genuenily fear those people that mock

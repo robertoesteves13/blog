@@ -4,6 +4,9 @@ date: 2024-08-05T13:17:03-03:00
 draft: false
 ---
 
+**Update:** I've found out how to push through fear: objectivism, reason and logic
+against mysticism and instincts. [I wrote about it here](/posts/in-defense-of-the-individual/).
+
 I've recently experienced severe symptons of anxiety, mainly because of several
 bad events happening in my life sequentially. This not only had physical side
 effects such as fast heartrates, shaking and insomia, but mental effects like
